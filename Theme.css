@@ -1,12 +1,12 @@
 {} /* Background */
 .app {
-    background-image: url("http://jyoji00.up.n.seesaa.net/jyoji00/image/hanazawa-kana97.jpg");
+    background-image: url("https://i.imgur.com/latVjdx.jpg");
     background-size: cover !important;
     background-position: center;
 }
 .callout-backdrop {
     opacity:1 !important;
-    background: url("http://jyoji00.up.n.seesaa.net/jyoji00/image/hanazawa-kana97.jpg");
+    background: url("https://i.imgur.com/latVjdx.jpg");
     background-size: cover;
     background-position: center;
 }
